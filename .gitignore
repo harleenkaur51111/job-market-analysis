@@ -1,0 +1,7 @@
+# Data files (too large for GitHub, or regeneratable)
+*.csv
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+.venv/
+venv/
